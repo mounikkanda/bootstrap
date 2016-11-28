@@ -1,0 +1,102 @@
+#search{
+	margin-left: 400px;
+	width: 260px;
+}
+
+#demo ul{
+	padding:30px;
+	margin-left: 0;
+
+}
+.navbar-brand img{
+	width: 200px;
+	height: 100px;
+}
+#intel {
+	background-color: black;
+}
+#contact a {
+	padding: 20px 20px;
+}
+
+.nav li:hover {
+	text-decoration: none;
+}
+.container {
+	width: 90%;
+	margin: auto;
+}
+
+.details {
+	position: relative;
+	top: 600px;
+}
+
+#demo {
+	margin: 20px 50px 0;
+	width: 700px;
+}
+#myCarousel{
+	margin-top: 142px;
+}
+.search-bar {
+	margin-right: 150px;
+	margin-top: -38px;
+}
+#search {
+	width: 400px;
+}
+.user{
+	padding-right: 50px;
+
+}
+.slide_image{
+	width: 960px !important;
+	height: 450px  !important;
+	margin: auto;
+}
+.images img{
+	width: 300px;
+	height: 200px;
+	margin-top: 20px;
+
+}
+footer{
+	width:all;
+	height: 100px;
+	margin: 0 -8px -8px -8px;
+	text-align: center;
+	font-size: 30px;
+	color: #fff;
+	background: #222;
+	padding: 0.5px;
+}
+footer a {
+	text-decoration: none;
+	color: #fff;
+}
+footer a:hover {
+	color: #aaa;
+}
+}
+
+.content img {
+	margin-top: 400px;
+
+} 
+.row2, .row3, .row1{
+	padding : 20px 0px;
+}
+
+@media(max-width: 480px){
+
+	
+}
+@media(max-width: 768px){
+	
+
+	
+}
+@media(max-width: 1200px){
+
+}
